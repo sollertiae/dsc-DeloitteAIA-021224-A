@@ -1,5 +1,5 @@
 # dsc-DeloitteAIA-021224-A 📉📊📈
-Deloitte AI Academy Intensive and Apprenticeship course materials for 07/24/23 cohort. It was made with ❤️ by Flatiron School
+Deloitte AI Academy Intensive and Apprenticeship course materials for 02/12/24 cohort. It was made with ❤️ by Flatiron School
 
 
 ## Written Instructions to Connect to this Repository:
