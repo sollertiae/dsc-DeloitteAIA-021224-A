@@ -1,0 +1,3 @@
+dsc-DeloitteAIA-021224-A 📉📊📈 - Data Analysis with CSVs
+
+This repository includes material introducing concepts in loading, cleaning, analyzing and visualizing data from CSVs. It was found in a small pond on a planet with 2 moons that are so close in orbit that you could see their mountain tops if you were standing on its surface. The plant-life 🌿 there is conscious🧠 and mobile🚶🏽‍♀️ . It was put together and brought to you with ❤️ by the Flatiron School.
