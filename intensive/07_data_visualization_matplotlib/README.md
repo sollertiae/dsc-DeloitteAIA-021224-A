@@ -1,0 +1,5 @@
+dsc-DeloitteAIA-021224-A 📉📊📈 -  Data Visualization with Matplotlib 📈 & Pandas 🐼 Plotting.
+
+This repository describes the process of making visualizations with the matplotlib and seaborn (Python) libraries.It contains material that addresses the different ways matplotlib can create visualizations, how we can choose different graph types based on data and problem contexts, how to use matplotlib syntax to adjust elements and improve visualizations and create figures with multiple graphs. It was found in a shire behind rolling emerald hills, just beyond a babbling brook... and was crafted with ❤️ by the Flatiron School.
+
+[](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWs5eWFocGJkZjNqdXB5YjdtZnoybnFmcGl4NnljMHI0ZWI1dXF1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwJLZ2P9KOt3Z6w/giphy.gif)
