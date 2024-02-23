@@ -1,0 +1,3 @@
+#dsc-DeloitteAIA-021224-A 📉📊📈 -  Descriptive Analysis 📖🧐
+
+This repository contains materials that introduces fundamental notions from statistics that students can use to describe their data.  The repository was obtained from a wary griffin which stood guard over it in a forgotten ruin. With a sonorant voice it spoke: "Heed the wisdom herein, for it helps you to build your story and stories are an ancient and powerful magic, use this knowledge wisely." It was obtained and delivered to you with ❤️ by Flatiron School (and JP).
